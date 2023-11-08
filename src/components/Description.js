@@ -22,7 +22,7 @@ const Description = () => {
 
       <TextField 
       id="outlined-basic" 
-      label="hei hei" 
+      label="Navn" 
       variant="outlined"
       value={value}
       onChange={(e) => setValue(e.target.value)} 
